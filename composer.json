@@ -2,7 +2,7 @@
     "name": "kukuhkkh/rajaongkir",
     "description": "Klien API PHP untuk RajaOngkir",
     "type": "library",
-    "license": "MTI",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kukuh Rahmadani",
